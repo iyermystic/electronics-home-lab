@@ -25,9 +25,7 @@ Some of my earliest memories with electronics were my uncle asking me to do cont
 Also being a classically trained musician, I knew that there aren't a lot of dedicated effects pedals for Indian accoustic instruments. Unsure if it is because it isn't used or it doesn't exist - but nonetheless, didn't stop me from desiring to design some effects for instruments like the veena or the sitar which has absolutely magical frequency range and invokes a feeling of sitting in a palace. So, the desire existed - I needed to "know" how to design.
 
 <div align="center">
-  <img src="<div align="center">
   <img src="https://www.walrusaudio.com/cdn/shop/files/Slo_Cutout_1800x.jpg?v=1757600520" width="250">
-</div>" width="250">
 </div>
 
  
