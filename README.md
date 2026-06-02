@@ -24,11 +24,12 @@ I grew up around electronics and lab equipment. My dad, my uncles were all OG el
 Some of my earliest memories with electronics were my uncle asking me to do continuity tests because he was babysitting me and he needed to keep me engaged. Lol! 
 Also being a classically trained musician, I knew that there aren't a lot of dedicated effects pedals for Indian accoustic instruments. Unsure if it is because it isn't used or it doesn't exist - but nonetheless, didn't stop me from desiring to design some effects for instruments like the [veena](https://www.extrica.com/article/23505#:~:text=citation%20was%20made.-,Abstract,planes%20at%20different%20radial%20distances%20from%20the%20assumed%20center%20is%20discussed.,-Highlights) or the sitar which has absolutely magical frequency range and invokes a feeling of sitting in a palace. So, the desire existed - I needed to "know" how to design.
 
+<div align="center">
 <figure align="center">
   <img src="playing-veena.jpg" width="250">
   <figcaption>Me playing my mother's 50-year-old veena.</figcaption>
 </figure>
-
+</div>
  
 Now comes the Knowledge part - Well, I never knew I would actually bring the Engineering degree I hold out to the moonlight because I wasn't able to enjoy my journey entirely. 
  
