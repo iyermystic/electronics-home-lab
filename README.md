@@ -17,16 +17,17 @@ And these three are all needed, and equally important without any imposition of 
 In my journey - What is my desire with respect to setting up an electronics lab? What is my end goal? 
 In short - to be able to design really cool instrument effects - especially reverb pedals. 
 
-My journey began with renting a guitar pedal (the good ones are so darn expensive to purchase, shoutout to Noiseboys who let you rent expensive gear for an affordable subscription) - the Walrus Slo, I was absolutely mindblown on how a piece of gear could achieve suche depth of sound, not created from elsewhere but derived from what I actually fed into it.
+My journey began with renting a guitar pedal (the good ones are so darn expensive to purchase, shoutout to [Noiseboyz](https://noiseboyz.com/) who let you rent expensive gear for an affordable subscription) - the Walrus Slo, I was absolutely mindblown on how a piece of gear could achieve suche depth of sound, not created from elsewhere but derived from what I actually fed into it.
 And to realize that everything behind the pedal was actually electronics, the manupulation of voltages and frequencies. The urgent need to be able to understand how it functions and design my own was immense. 
 
 I grew up around electronics and lab equipment. My dad, my uncles were all OG electronics and electricals nerds and designers from Bangalore, India. 
 Some of my earliest memories with electronics were my uncle asking me to do continuity tests because he was babysitting me and he needed to keep me engaged. Lol! 
-Also being a classically trained musician, I knew that there aren't a lot of dedicated effects pedals for Indian accoustic instruments. Unsure if it is because it isn't used or it doesn't exist - but nonetheless, didn't stop me from desiring to design some effects for instruments like the veena or the sitar which has absolutely magical frequency range and invokes a feeling of sitting in a palace. So, the desire existed - I needed to "know" how to design.
+Also being a classically trained musician, I knew that there aren't a lot of dedicated effects pedals for Indian accoustic instruments. Unsure if it is because it isn't used or it doesn't exist - but nonetheless, didn't stop me from desiring to design some effects for instruments like the [veena](https://www.extrica.com/article/23505#:~:text=citation%20was%20made.-,Abstract,planes%20at%20different%20radial%20distances%20from%20the%20assumed%20center%20is%20discussed.,-Highlights) or the sitar which has absolutely magical frequency range and invokes a feeling of sitting in a palace. So, the desire existed - I needed to "know" how to design.
 
-<div align="center">
-  <img src="https://www.walrusaudio.com/cdn/shop/files/Slo_Cutout_1800x.jpg?v=1757600520" width="250">
-</div>
+<figure align="center">
+  <img src="playing-veena.jpg" width="250">
+  <figcaption>Me playing my mother's 50-year-old veena.</figcaption>
+</figure>
 
  
 Now comes the Knowledge part - Well, I never knew I would actually bring the Engineering degree I hold out to the moonlight because I wasn't able to enjoy my journey entirely. 
